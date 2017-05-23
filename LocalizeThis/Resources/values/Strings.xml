@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">LocalizeThis</string>
+   <string name="Localization">You clicked a button</string>
+  <string name="Localization1">you havent clicked the button</string>
+</resources>

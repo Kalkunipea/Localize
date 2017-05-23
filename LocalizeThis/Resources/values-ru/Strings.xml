@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello"> Привет, мир по-русски!</string>
+  <string name="ApplicationName">LocalizeThis</string>
+  <string name="Localization">Вы нажали кнопку</string>
+  <string name="Localization1">кнопку</string>
+</resources>
